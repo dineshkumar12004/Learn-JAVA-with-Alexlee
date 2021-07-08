@@ -1,4 +1,4 @@
-# Learn-JAVA-with-Alexlee
+# Learn-JAVA-with-AlexLee
 In this repo I'll store all my java codes I practice by watching YouTube lecture from Alex Lee.
 
 

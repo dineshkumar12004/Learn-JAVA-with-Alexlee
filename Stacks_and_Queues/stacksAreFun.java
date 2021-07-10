@@ -14,14 +14,5 @@ public class stacksAreFun {
         System.out.println(games.peek());
         System.out.println(games);
 
-
-
-
-
-        
-
-
-        
-
     }
 }
